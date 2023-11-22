@@ -1,4 +1,4 @@
-# Desafio 01 : Criar umaLandingPage
+# Desafio 01 : Criação de uma Landing Page
 Primeiro desafio do curso de Tecnologia da Escola DNC.<br> 
 Criação de uma landing page com base no protótipo fornecido via [Figma](https://tinyurl.com/desafio01LP).
 
