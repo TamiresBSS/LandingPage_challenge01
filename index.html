@@ -39,13 +39,14 @@
     </div>
     <!-- Área Inferior : Formulário -->
     <div id="formulario">
-        <h1 class="form">Conheça mais sobre nossos serviços:</h1><br>
-        <form>
-            <input type="text" placeholder="Nome" name="Name" class="form"><br>
-            <input type="email" placeholder="E-mail" name="Email" class="form"><br><br>
-            <button type="submit" class="form">Fale Conosco</button>
+        <h1>Conheça mais sobre nossos serviços:</h1><br>
+        <form action="https://api.sheetmonkey.io/form/nqWZ73pxAZV9iKWB5tpoKq" method="post">
+            <input type="text" placeholder="Nome" name="Name" required><br>
+            <input type="email" placeholder="E-mail" name="Email" required>
+            <input type="hidden" name="Created" value="x-sheetmonkey-current-date-time" />
+            <br><br>
+            <button type="submit">Fale Conosco</button>
         </form>
     </div>
-    
 </body>
 </html>
